@@ -1,0 +1,8 @@
+[Tue Jun 06 13:03:18.900508 2023] [ssl:warn] [pid 948] AH01909: RSA certificate configured for freepbx.sangoma.local:443 does NOT include an ID which matches the server name
+[Tue Jun 06 13:03:19.064401 2023] [ssl:warn] [pid 948] AH01909: RSA certificate configured for freepbx.sangoma.local:443 does NOT include an ID which matches the server name
+[Wed Jun 07 02:26:43.951279 2023] [ssl:warn] [pid 911] AH01909: RSA certificate configured for freepbx.sangoma.local:443 does NOT include an ID which matches the server name
+[Wed Jun 07 02:26:43.968563 2023] [ssl:warn] [pid 911] AH01909: RSA certificate configured for freepbx.sangoma.local:443 does NOT include an ID which matches the server name
+[Wed Jun 07 10:38:53.730302 2023] [ssl:warn] [pid 1046] AH01909: RSA certificate configured for freepbx.sangoma.local:443 does NOT include an ID which matches the server name
+[Wed Jun 07 10:38:53.777808 2023] [ssl:warn] [pid 1046] AH01909: RSA certificate configured for freepbx.sangoma.local:443 does NOT include an ID which matches the server name
+[Wed Jun 07 15:20:38.391003 2023] [ssl:warn] [pid 973] AH01909: RSA certificate configured for freepbx.sangoma.local:443 does NOT include an ID which matches the server name
+[Wed Jun 07 15:20:38.438157 2023] [ssl:warn] [pid 973] AH01909: RSA certificate configured for freepbx.sangoma.local:443 does NOT include an ID which matches the server name

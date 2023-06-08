@@ -1,0 +1,36 @@
+[Tue Jun 06 13:03:18.756076 2023] [suexec:notice] [pid 948] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using freepbx.sangoma.local. Set the 'ServerName' directive globally to suppress this message
+[Tue Jun 06 13:03:19.045326 2023] [lbmethod_heartbeat:notice] [pid 948] AH02282: No slotmem from mod_heartmonitor
+[Tue Jun 06 13:03:32.959827 2023] [mpm_prefork:notice] [pid 948] AH00163: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/7.4.16 configured -- resuming normal operations
+[Tue Jun 06 13:03:32.959874 2023] [core:notice] [pid 948] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Wed Jun 07 02:26:13.670916 2023] [mpm_prefork:notice] [pid 948] AH00170: caught SIGWINCH, shutting down gracefully
+[Wed Jun 07 02:26:43.891289 2023] [suexec:notice] [pid 911] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using freepbx.sangoma.local. Set the 'ServerName' directive globally to suppress this message
+[Wed Jun 07 02:26:43.968168 2023] [lbmethod_heartbeat:notice] [pid 911] AH02282: No slotmem from mod_heartmonitor
+[Wed Jun 07 02:26:44.040592 2023] [mpm_prefork:notice] [pid 911] AH00163: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/7.4.16 configured -- resuming normal operations
+[Wed Jun 07 02:26:44.040620 2023] [core:notice] [pid 911] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Wed Jun 07 10:38:22.453733 2023] [mpm_prefork:notice] [pid 911] AH00170: caught SIGWINCH, shutting down gracefully
+[Wed Jun 07 10:38:53.578693 2023] [suexec:notice] [pid 1046] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using freepbx.sangoma.local. Set the 'ServerName' directive globally to suppress this message
+[Wed Jun 07 10:38:53.777256 2023] [lbmethod_heartbeat:notice] [pid 1046] AH02282: No slotmem from mod_heartmonitor
+[Wed Jun 07 10:38:53.852425 2023] [mpm_prefork:notice] [pid 1046] AH00163: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/7.4.16 configured -- resuming normal operations
+[Wed Jun 07 10:38:53.852449 2023] [core:notice] [pid 1046] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Wed Jun 07 15:20:06.983031 2023] [mpm_prefork:notice] [pid 1046] AH00170: caught SIGWINCH, shutting down gracefully
+[Wed Jun 07 15:20:38.314562 2023] [suexec:notice] [pid 973] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using freepbx.sangoma.local. Set the 'ServerName' directive globally to suppress this message
+[Wed Jun 07 15:20:38.437771 2023] [lbmethod_heartbeat:notice] [pid 973] AH02282: No slotmem from mod_heartmonitor
+[Wed Jun 07 15:20:38.654816 2023] [mpm_prefork:notice] [pid 973] AH00163: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/7.4.16 configured -- resuming normal operations
+[Wed Jun 07 15:20:38.654837 2023] [core:notice] [pid 973] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Thu Jun 08 18:19:39.407563 2023] [suexec:notice] [pid 5669] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using localhost.localdomain. Set the 'ServerName' directive globally to suppress this message
+[Thu Jun 08 18:19:39.428282 2023] [lbmethod_heartbeat:notice] [pid 5669] AH02282: No slotmem from mod_heartmonitor
+[Thu Jun 08 18:19:39.461144 2023] [mpm_prefork:notice] [pid 5669] AH00163: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/7.4.16 configured -- resuming normal operations
+[Thu Jun 08 18:19:39.461190 2023] [core:notice] [pid 5669] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+npm WARN deprecated nomnom@1.8.1: Package no longer supported. Contact support@npmjs.com for more info.
+npm WARN deprecated is-buffer@1.0.2: This version of 'is-buffer' is out-of-date. You must update to v1.1.6 or newer
+which: no amportal in (/usr/local/sbin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin)
+which: no amportal in (/usr/local/sbin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin)
+which: no amportal in (/usr/local/sbin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin)
+sh: g++: 未找到命令
+[Thu Jun 08 18:54:13.868738 2023] [php7:error] [pid 5674] [client 192.168.41.1:51832] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 94672128 bytes) in /var/www/html/admin/libraries/Composer/vendor/rmccue/requests/library/Requests.php on line 649, referer: http://192.168.41.140/admin/config.php?display=modules
+[Thu Jun 08 18:56:43.111182 2023] [php7:error] [pid 13686] [client 192.168.41.1:51973] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 94672128 bytes) in /var/www/html/admin/libraries/Composer/vendor/rmccue/requests/library/Requests.php on line 649, referer: http://192.168.41.140/admin/config.php?display=modules
